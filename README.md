@@ -1,11 +1,10 @@
-💎 JSON to MD Converter GUI
-Fast, Mica-Powered, Native Windows Converter
+💎 JSON to MD Converter GUI: Fast, Mica-Powered, Native Windows 11 Converter
 
 JSON Converter is a high-performance Windows 11 utility designed to transform dense, technical JSON into "sharpened," human-readable Markdown. Built with C# .NET 8 and compiled via Native AOT, it is a GUI application contained in a single standalone executable.
 
 🚀 Instant Cold Start: No JIT (Just-In-Time) compilation lag.
 
-Mica & Dark Mode: Uses Windows 11's Desktop Window Manager (DWM) API to force Mica translucent backdrops and system-native mode.
+Uses Windows 11's Desktop Window Manager (DWM) API to force Mica translucent backdrops and system-native mode.
 
 Memory Optimized: Hand-written UI logic and non-reflective JSON DOM parsing for a near-zero RAM footprint.
 
